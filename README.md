@@ -49,7 +49,7 @@ node index.js
   <li>To find a game App ID:
     <ul>
       <li>Go to the Steam Store page of the game</li>
-      <li>In the URL, after /app/, copy the number\
+      <li>In the URL, after /app/, copy the number
         <br>
         <img src="https://github.com/vLucqy/steam-playtime-booster/blob/main/guide/appId.png?raw=true" width="500px">
       </li>
