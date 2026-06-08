@@ -11,7 +11,7 @@ Use at your <b>own</b> risk.
 </ul>
 
 ```bash 
-git clone https://github.com/your-username/steam-playtime-booster.git 
+git clone https://github.com/vLucqy/steam-playtime-booster.git 
 ```
 
 ```bash 
