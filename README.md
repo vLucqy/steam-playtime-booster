@@ -20,14 +20,12 @@ cd steam-playtime-booster
 
 ```bashe
 npm install
-
 ```
 
 <h2>⚡ RUN</h2>
 
 ```bash
 node index.js
-
 ```
 
 
